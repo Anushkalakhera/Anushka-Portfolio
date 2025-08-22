@@ -12,11 +12,11 @@ const HeroPic = () => {
             initial="hidden"
             whileInView="show"
             viewport={{ once: false, amount: 0}}
-    className='h-full flex items-center justify-center'>
-        <img src="\images\Anushka.png" alt="Anushka Lakhera "  className='max-h-[450px] w-auto'/>
+    className='h-full flex items-center justify-center sm:mt-10'>
+        <img src="\images\Anushka.png" alt="Anushka Lakhera "  className='max-h-[380px] w-auto'/>
         <div className='absolute -z-10 flex justify-center items-center animate-pulse'>
             
-            <PiCircleThin className='md:h-[90%] sm:h-[120%] min-h-[600px] w-auto text-cyan blur-md animate-[spin_50s_linear_infinite]'/>
+            <PiCircleThin className='md:h-[90%]  min-w-[500px] min-h-[500px] w-auto text-cyan blur-md animate-[spin_50s_linear_infinite]'/>
         </div>
     </motion.div>
   )
