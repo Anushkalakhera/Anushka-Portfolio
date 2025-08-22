@@ -30,6 +30,7 @@ export const NavbarMain = () => {
       {menuOpen && (
         <div className="lg:hidden mt-2 flex flex-col items-center gap-4 bg-black border border-orange rounded-2xl p-6 animate-fadeIn">
           <NavbarLinks />
+          <NavbarBtn/>
         </div>
       )}
     </nav>
