@@ -4,29 +4,29 @@ import SingleProject from './SingleProject'
 import { motion } from 'framer-motion';
 import { fadeIn } from '../../framerMotion/variants';
 
-const projects=[
+const projects = [
     {
         name: 'Ecommerce website (UI design)',
         align: 'right',
-        image: '../..//imagess/website-img-1.jpg',
+        image: '/images/website-img-1.jpg',
         link: '#'
     },
     {
         name: 'Ecommerce website (UI design)',
         align: 'left',
-        image: '../..//imagess/website-img-2.webp',
+        image: '/images/website-img-2.webp',
         link: '#'
     },
     {
         name: 'Ecommerce website (UI design)',
         align: 'right',
-        image: '../..//imagess/website-img-3.jpg',
+        image: '/images/website-img-3.jpg',
         link: '#'
     },
     {
         name: 'Ecommerce website (UI design)',
         align: 'left',
-        image: '../..//imagess/website-img-4.jpg',
+        image: '/images/website-img-4.jpg',
         link: '#'
     }
 ]
