@@ -8,25 +8,25 @@ const projects=[
     {
         name: 'Ecommerce website (UI design)',
         align: 'right',
-        image: '../../public/images/website-img-1.jpg',
+        image: '../..//imagess/website-img-1.jpg',
         link: '#'
     },
     {
         name: 'Ecommerce website (UI design)',
         align: 'left',
-        image: '../../public/images/website-img-2.webp',
+        image: '../..//imagess/website-img-2.webp',
         link: '#'
     },
     {
         name: 'Ecommerce website (UI design)',
         align: 'right',
-        image: '../../public/images/website-img-3.jpg',
+        image: '../..//imagess/website-img-3.jpg',
         link: '#'
     },
     {
         name: 'Ecommerce website (UI design)',
         align: 'left',
-        image: '../../public/images/website-img-4.jpg',
+        image: '../..//imagess/website-img-4.jpg',
         link: '#'
     }
 ]
