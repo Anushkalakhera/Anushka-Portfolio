@@ -6,32 +6,32 @@ import { fadeIn } from '../../framerMotion/variants';
 
 const projects = [
     {
-        name: 'Ecommerce website (UI design)',
+        name: 'TravelMinds (AI TRAVEL PLANNER)',
         align: 'right',
         image: '/images/website-img-1.jpg',
-        liveLink: 'https://your-live-link.com',
-        githubLink: 'https://github.com/yourusername/project1'
+        liveLink: 'https://travelminds-ai.vercel.app/',
+        githubLink: 'https://github.com/Anushkalakhera/travelminds-ai'
     },
     {
-        name: 'Ecommerce website (UI design)',
+        name: 'AI Resume Analyser',
         align: 'left',
         image: '/images/website-img-2.webp',
-        liveLink: 'https://your-live-link.com',
-        githubLink: 'https://github.com/yourusername/project2'
+        liveLink: 'https://interview-resume-analyser.vercel.app/',
+        githubLink: 'https://github.com/Anushkalakhera/Interview-resume-Analyser-GenAI-MERN-'
     },
     {
-        name: 'Ecommerce website (UI design)',
+        name: 'CineTrack (Movie Recommendation System)',
         align: 'right',
         image: '/images/website-img-3.jpg',
-        liveLink: 'https://your-live-link.com',
-        githubLink: 'https://github.com/yourusername/project3'
+        liveLink: 'https://github.com/Anushkalakhera/CineTrack-',
+        githubLink: 'https://github.com/Anushkalakhera/CineTrack-'
     },
     {
-        name: 'Ecommerce website (UI design)',
+        name: 'Personal Portfolio Website',
         align: 'left',
         image: '/images/website-img-4.jpg',
-        liveLink: 'https://your-live-link.com',
-        githubLink: 'https://github.com/yourusername/project4'
+        liveLink: 'https://anushkalakhera-portfolio.vercel.app/',
+        githubLink: 'https://github.com/Anushkalakhera/Anushka-Portfolio'
     }
 ]
 
