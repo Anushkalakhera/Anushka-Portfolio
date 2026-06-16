@@ -57,7 +57,7 @@ const AboutMeText = () => {
           href='https://www.linkedin.com/in/anushka-lakhera/'
           target='_blank'
           rel='noreferrer'
-          className='border border-blue-500 px-5 py-2 rounded-full text-blue-500 hover:bg-blue-500 hover:text-white transition duration-300'
+          className='border border-cyan px-5 py-2 rounded-full text-cyan hover:bg-cyan hover:text-black transition duration-300'
         >
           LinkedIn
         </a>
@@ -66,7 +66,7 @@ const AboutMeText = () => {
           href='https://leetcode.com/u/anushka_lakhera/'
           target='_blank'
           rel='noreferrer'
-          className='border border-yellow-500 px-5 py-2 rounded-full text-yellow-500 hover:bg-yellow-500 hover:text-black transition duration-300'
+          className='border border-cyan px-5 py-2 rounded-full text-cyan hover:bg-cyan hover:text-black transition duration-300'
         >
           LeetCode
         </a>
